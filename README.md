@@ -4,8 +4,10 @@
 
 ## 安装/Install
 
-- [Tampermonkey](https://www.tampermonkey.net/)
-- [Greasy Fork: AngularJS API Dashboard (^1.0.0)](https://greasyfork.org/en/scripts/407601-angularjs-api-dashboard-1-0-0)
+- 浏览器安装扩展 [Tampermonkey](https://www.tampermonkey.net/)
+- 扩展中安装脚本 [Greasy Fork: AngularJS API Dashboard (^1.0.0)](https://greasyfork.org/en/scripts/407601-angularjs-api-dashboard-1-0-0)
+
+之后访问 [AngularJS](https://docs.angularjs.org/api) 官网体验。
 
 ## Screenshots
 
