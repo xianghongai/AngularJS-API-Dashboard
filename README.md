@@ -11,12 +11,14 @@
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/caringrun/assets/master/angularjs-api-dashboard-v1-light.png)
+![无法访问 raw.githubusercontent.com](https://raw.githubusercontent.com/caringrun/assets/master/angularjs-api-dashboard-v1-light.png)
 
-![](https://raw.githubusercontent.com/caringrun/assets/master/angularjs-api-dashboard-v1-dark.png)
+![无法访问 raw.githubusercontent.com](https://raw.githubusercontent.com/caringrun/assets/master/angularjs-api-dashboard-v1-dark.png)
+
+预览回滚: [light](https://i.loli.net/2020/07/24/jdwWQDBAok6K7bV.png), [dark](https://i.loli.net/2020/07/24/iKNtUd8lIjkCQfA.png)
 
 ---
 
-**Donate**
+**[Donate](https://i.loli.net/2020/07/24/fO2yerxqXFuZV5L.png)**
 
 ![](https://raw.githubusercontent.com/caringrun/assets/master/donate.png)
